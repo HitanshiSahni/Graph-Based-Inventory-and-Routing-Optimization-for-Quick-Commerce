@@ -1,4 +1,4 @@
-# EDI Sem 6 Project
+# Graph-Based Inventory and Routing Optimization for Quick Commerce
 
 ## Overview
 This project is a geospatial data visualization and analysis tool built for the EDI Sem 6 curriculum. It consists of a modern, high-performance web application featuring an interactive map interface and a robust backend service.
